@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Youtube</string>
+    <string name="search">Search</string>
+    <string name="snackBar_internet_connection">No Internet Connection</string>
+    <string name="gps_connection">GPS id disabled</string>
+    <string name="retry">Retry</string>
+    <string name="unable_to_connect_to_google">Unable to connect to Google Services</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_with_google">Login with Google</string>
+
+</resources>
